@@ -49,8 +49,7 @@ The project will be developed using the following technologies:
 - **OpenXR:** Used to support the virtual reality experience on the Meta Quest.
 - **Godot XR Tools:** Used to implement interactions such as grabbing, holding and positioning virtual objects.
 - **Godot physics and collision detection:** Used to detect interactions between equipment and predefined areas.
-
-<!-- - **AnimationPlayer, timers and particle effects:** Used where appropriate to simulate espresso extraction and provide visual feedback. -->
+- **AnimationPlayer, timers and particle effects:** Used where appropriate to simulate espresso extraction and provide visual feedback.
 
 ### Team Members
 
